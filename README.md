@@ -82,7 +82,7 @@ Abaixo, segue o modelo da tela inicial que deve aparecer ao acessar o navegador.
 Alunos podem adicionar o conteúdo nas seções e personalizar o código conforme o tema específico de cada grupo. Utilize o *style.css* para adicionar estilos personalizados e *script.js* para lógica interativa.
 
 
-#### IMPLEMENTAÇÃO Guilherme: 
+#### IMPLEMENTAÇÃO Whinicius da Mata: 
 
 Bom buscando uma forma mais facil de realizar essa implementação resolve realizar a atualização da NAVBAR onde agora esta responsiva caso seja nescessario utilizar no dispositivo mobile. 
 
